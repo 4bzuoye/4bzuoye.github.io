@@ -4,4 +4,5 @@ User-agent: Googlebot
 Allow: /
 User-agent: Baiduspider
 Disallow: /
-Disallow: /fuckbaidu
+Allow: /fuckbaidu
+# © Copyright 2022-2023 Hangyang Inc. All right reserved.
