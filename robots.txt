@@ -1,0 +1,7 @@
+# Fuck Baidu.
+# This is the robots.txt from https://4bzuoye.github.io/.
+User-agent: Googlebot
+Allow: /
+User-agent: Baiduspider
+Disallow: /
+Disallow: /fuckbaidu
